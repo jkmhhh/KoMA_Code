@@ -43,7 +43,7 @@ python main.py
 ### Switching simulation scene
 All simulation scenarios are set in `highway_env/envs`. 
 
-The total number of vehicles in the initial simulation scenario does not exceed 8. We have only set up 8 random spawn locations for vehicles
+The total number of vehicles in the initial simulation scenario does not exceed 8. We have only set up 8 random spawn locations for vehicles.
 You can customize the simulation scenario to solve this problem.
 
 ### one-lane
