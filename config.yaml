@@ -1,0 +1,7 @@
+OPENAI_API_TYPE: 'ollama' #openai or azure or ollama
+REAL_OPENAI_KEY: 'xxxxxxxxxxxxxxxxxxxxxxxx'
+CHATGPT_MODEL: GPT-16
+EMBEDDING_MODEL: ada-002
+OPENAI_API_BASE: https://east-us-api.openai.azure.com/
+OPENAI_API_VERSION: "2023-03-15-preview"
+OPENAI_API_KEY: 'xxxxxxxxxxxxxxxxxxxxxxxx'
