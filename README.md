@@ -20,7 +20,7 @@ we recommend using conda to create an python virtual environment.
 
 Note that if you want to use the Memory module, you need to run the code under linux
 ```python
-conda create -n KoMA python=3.8
+conda create -n KoMA python=3.9
 conda activate KoMA
 pip install -r requirements.txt
 ```
